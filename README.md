@@ -3,8 +3,8 @@ This project is a full-stack web application built using React js for the fronte
 
 
 ## User Interface Screenshots 
-#### Dashboard
-![Dashboard](./frontend/public/ss/dashboard.png)
+#### Home Page
+![Dashboard](./frontend/public/ss/home-page.png)
 
 #### Books
 ![Dashboard](./frontend/public/ss/books.png)
